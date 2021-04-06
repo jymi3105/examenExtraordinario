@@ -1,0 +1,6 @@
+{
+    "require": {
+        "andreshg112/chuck-norris-jokes": "^1.0",
+        "codezero/encrypter": "^2.0"
+    }
+}
